@@ -1,28 +1,18 @@
-name: fromAl
-favicon: null
-layout_spectrum: 0.29079
-typography_spectrum: 0.7955390471033752
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#C0C8C0'
+    - '#000000'
+    - '#908878'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.7027724459767342
   lightness: 0.9598271055147052
-  saturation: 0.8129931567236781
   rhythmicContrast: 0.4427708250004798
+  saturation: 0.8129931567236781
+cta: {}
+layout_spectrum: 0.29079
+name: fromAl
+opengraph: {}
 purpose: []
+typography_spectrum: 0.7955390471033752
